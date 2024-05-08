@@ -1,5 +1,5 @@
 ### Добро пожаловать в мир GitHab! Меня зовут Даша! Здесь мы творим и делимся знаниями. Пусть это сообщество будет местом, где рождаются идеи и воплощаюся в реальность!
-![Header](https://github.com/DariaStreletskaya/DariaStreletskaya/blob/main/assets/giphy-1.gif)
+![Header](https://github.com/DariaStreletskaya/DariaStreletskaya/blob/main/assets/%D0%BA%D0%B8%D1%81%D0%B0.gif)
 <!--
 **DariaStreletskaya/DariaStreletskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
